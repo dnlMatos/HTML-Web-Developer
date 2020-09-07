@@ -1,3 +1,3 @@
 # HTML-Web-Developer
 
-Repositório que trabalha as atividades propostas no bootcamp
+Repositório que trabalha as atividades propostas no bootcamp utilizando javascript
